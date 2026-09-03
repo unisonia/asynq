@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: unisonia/asynq
 spec:
-  type: other
-  lifecycle: unknown
-  owner: unisonia
+  type: service
+  lifecycle: production
+  owner: cad
