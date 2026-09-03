@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: asynq
+  annotations:
+    github.com/project-slug: unisonia/asynq
+spec:
+  type: other
+  lifecycle: unknown
+  owner: unisonia
